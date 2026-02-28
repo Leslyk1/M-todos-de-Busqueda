@@ -1,0 +1,37 @@
+Algortimo de BusquedaLineal
+
+Inicio
+    Para i desde 0 hasta el tamaño del arreglo -1 hacer
+         si arreglo[i] es igual al valor buscaso entonces
+              retornar i
+        Fin si
+    Fin Para
+
+    Retornar -1
+
+Fin
+
+
+
+Algoritmo de BusquedaBinaria
+
+Inicio
+    low = 0
+    high = tamaño del arrelo -1
+
+    mientras low <= high hacer
+        mid = (low + high) / 2
+
+        si arreglo[mid] es igual al valor buscado entonces
+             retornar mid
+        fin si
+
+        si arreglo[mid] es menor que el valor buscado entonces
+             low = mid + 1
+        si no
+             high = mid -1
+        fin si
+    Fin mientras
+
+    retornar -1
+Fin 

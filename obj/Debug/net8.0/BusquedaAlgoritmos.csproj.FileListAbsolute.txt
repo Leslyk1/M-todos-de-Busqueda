@@ -1,0 +1,14 @@
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.AssemblyInfo.cs
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.exe
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.deps.json
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.runtimeconfig.json
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.dll
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\bin\Debug\net8.0\BusquedaAlgoritmos.pdb
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.dll
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\refint\BusquedaAlgoritmos.dll
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.pdb
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\BusquedaAlgoritmos.genruntimeconfig.cache
+C:\Users\lesly\Desktop\Metodos de busqueda\BusquedaAlgoritmos\obj\Debug\net8.0\ref\BusquedaAlgoritmos.dll
